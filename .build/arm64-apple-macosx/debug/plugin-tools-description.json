@@ -1,0 +1,1323 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.xctest/Contents/MacOS/BaseModulePackageTests",
+      "packagePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule",
+      "productName" : "BaseModulePackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Info.plist" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Info.plist"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Info.plist"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Localizable.xcstrings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Localizable.xcstrings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Localizable.xcstrings"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Media.xcassets" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Media.xcassets"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/Media.xcassets"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Bold.ttf" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Fonts/Poppins/PoppinsLatin-Bold.ttf"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Bold.ttf"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Light.ttf" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Fonts/Poppins/PoppinsLatin-Light.ttf"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Light.ttf"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Medium.ttf" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Fonts/Poppins/PoppinsLatin-Medium.ttf"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Medium.ttf"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Regular.ttf" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Fonts/Poppins/PoppinsLatin-Regular.ttf"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-Regular.ttf"
+        }
+      ]
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-SemiBold.ttf" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Resources/Fonts/Poppins/PoppinsLatin-SemiBold.ttf"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule_BaseModule.bundle/PoppinsLatin-SemiBold.ttf"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.BaseModule-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/sources",
+      "importPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Base.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/CustomShadow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/ExampleLocalizedView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/LanguageSettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/RoundedCorner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Configs/BaseModuleConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/LocalizedString.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/LocalizationManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/ThemeManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/UserManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Bundle+language.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Color+Dynamic.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/FontLoader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Fonts+UIFont.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Notification+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/SizeModifire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/String+Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/UserDefaults+.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+RTL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+corner+background.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/CoreDependence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/DependenceProviders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/Injectable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BackgroundStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BorderStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/ColorStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/TextStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<BaseModule-arm64-apple-macosx26.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BaseModule",
+      "moduleOutputPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModule.swiftmodule",
+      "objects" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Base.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CustomShadow.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ExampleLocalizedView.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LanguageSettingsView.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/RoundedCorner.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BaseModuleConfig.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Constants.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizedString.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizationManager.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ThemeManager.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserManager.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Bundle+language.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Color+Dynamic.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/FontLoader.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Fonts+UIFont.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Notification+Extensions.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/SizeModifire.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/String+Localization.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserDefaults+.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Localization.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+RTL.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Theme.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+corner+background.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CoreDependence.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DependenceProviders.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Injectable.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BackgroundStyles.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BorderStyles.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ColorStyle.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/TextStyle.swift.o",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/include/BaseModule-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "basemodule"
+      ],
+      "outputFileMapPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Base.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CustomShadow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ExampleLocalizedView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LanguageSettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/RoundedCorner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BaseModuleConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Constants.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizedString.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizationManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ThemeManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Bundle+language.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Color+Dynamic.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/FontLoader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Fonts+UIFont.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Notification+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/SizeModifire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/String+Localization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserDefaults+.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Localization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+RTL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+corner+background.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CoreDependence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DependenceProviders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Injectable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BackgroundStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BorderStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ColorStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/TextStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModule.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Base.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/CustomShadow.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/ExampleLocalizedView.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/LanguageSettingsView.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/RoundedCorner.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Configs/BaseModuleConfig.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/Constants.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/LocalizedString.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/LocalizationManager.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/ThemeManager.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/UserManager.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Bundle+language.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Color+Dynamic.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/FontLoader.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Fonts+UIFont.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Notification+Extensions.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/SizeModifire.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/String+Localization.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/UserDefaults+.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Localization.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+RTL.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Theme.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+corner+background.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/CoreDependence.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/DependenceProviders.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/Injectable.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BackgroundStyles.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BorderStyles.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/ColorStyle.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/TextStyle.swift",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.BaseModulePackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/sources",
+      "importPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModuleTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BaseModulePackageTests",
+      "moduleOutputPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModulePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/include/BaseModulePackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "basemodule"
+      ],
+      "outputFileMapPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModulePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.BaseModuleTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/sources",
+      "importPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Tests/BaseModuleTests/BaseTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModule.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BaseModuleTests",
+      "moduleOutputPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModuleTests.swiftmodule",
+      "objects" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/BaseTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "basemodule"
+      ],
+      "outputFileMapPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/BaseTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules/BaseModuleTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Tests/BaseModuleTests/BaseTests.swift"
+      ],
+      "tempsPath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "BaseModule" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BaseModule",
+      "-package-name",
+      "basemodule",
+      "-c",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Base.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/CustomShadow.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/ExampleLocalizedView.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/LanguageSettingsView.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/RoundedCorner.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Configs/BaseModuleConfig.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/Constants.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/LocalizedString.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/LocalizationManager.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/ThemeManager.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/UserManager.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Bundle+language.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Color+Dynamic.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/FontLoader.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Fonts+UIFont.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Notification+Extensions.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/SizeModifire.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/String+Localization.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/UserDefaults+.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Localization.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+RTL.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Theme.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+corner+background.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/CoreDependence.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/DependenceProviders.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/Injectable.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BackgroundStyles.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BorderStyles.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/ColorStyle.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/TextStyle.swift",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/include/BaseModule-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "basemodule",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BaseModulePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BaseModulePackageTests",
+      "-package-name",
+      "basemodule",
+      "-c",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/include/BaseModulePackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "basemodule",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BaseModuleTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BaseModuleTests",
+      "-package-name",
+      "basemodule",
+      "-c",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Tests/BaseModuleTests/BaseTests.swift",
+      "-I",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "basemodule",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "BaseModule" : [
+
+    ],
+    "BaseModulePackageTests" : [
+      "BaseModuleTests",
+      "BaseModule"
+    ],
+    "BaseModuleTests" : [
+      "BaseModule"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Base.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/CustomShadow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/ExampleLocalizedView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/LanguageSettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Components/RoundedCorner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Configs/BaseModuleConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Constants/LocalizedString.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/LocalizationManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/ThemeManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Dependencies/UserManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Bundle+language.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Color+Dynamic.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/FontLoader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Fonts+UIFont.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/Notification+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/SizeModifire.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/String+Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/UserDefaults+.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+RTL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Extensions/View/View+corner+background.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/CoreDependence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/DependenceProviders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Injection/Injectable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BackgroundStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/BorderStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/ColorStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Sources/BaseModule/Styles/TextStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/sources"
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/sources"
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BackgroundStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Base.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BaseModuleConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/BorderStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Bundle+language.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Color+Dynamic.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ColorStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Constants.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CoreDependence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/CustomShadow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/DependenceProviders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ExampleLocalizedView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/FontLoader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Fonts+UIFont.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Injectable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LanguageSettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizationManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/LocalizedString.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/Notification+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/RoundedCorner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/SizeModifire.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/String+Localization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/TextStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/ThemeManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserDefaults+.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/UserManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Localization.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+RTL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/View+corner+background.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModule.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/BaseTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/Tests/BaseModuleTests/BaseTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModuleTests.build/sources"
+    },
+    "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

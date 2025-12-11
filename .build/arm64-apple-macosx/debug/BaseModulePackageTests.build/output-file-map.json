@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/master.swiftdeps"
+  },
+  "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.d",
+    "object": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/erfand/my Pojects/Extra Projects/ErfanApp/ErfanApp/Modules/BaseModule/.build/arm64-apple-macosx/debug/BaseModulePackageTests.build/runner.dia"
+  }
+}
