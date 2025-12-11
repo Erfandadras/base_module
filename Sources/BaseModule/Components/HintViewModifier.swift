@@ -11,10 +11,12 @@ import SwiftUI
 public struct HintUIModel: Equatable {
     public var text: String
     let color: Color
+    let font: Font
     
-    public init(text: String, color: Color) {
+    public init(text: String, color: Color, font: Font) {
         self.text = text
         self.color = color
+        self.font = font
     }
 }
 
@@ -28,7 +30,7 @@ public struct HintViewModifier: ViewModifier {
             
             if let hint = hint {
                 Text(hint.text)
-                    .font(.ui.sRegular)
+                    .font(hint.font)
                     .foregroundStyle(hint.color)
                     .leading()
             }
@@ -44,7 +46,7 @@ public struct HintWithSpaceViewModifier: ViewModifier {
             content
             if let hint = hint {
                 Text(hint.text)
-                    .font(.ui.sRegular)
+                    .font(hint.font)
                     .foregroundStyle(hint.color)
                     .leading()
             }
